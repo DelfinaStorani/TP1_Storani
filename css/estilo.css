@@ -1,0 +1,25 @@
+body {background-color: antiquewhite;}
+h1,h2,h3, h4{ text-align: center;}
+
+h1{text-transform: uppercase;
+color: #60aa4e;
+text-decoration: underline;}
+
+h2 {text-transform: capitalize;
+color: #305487;}
+
+h3 {text-transform: capitalize;
+    color:#64a7d7;}
+
+p {text-align: left;}
+
+a {color: #305487;
+text-decoration: none;
+}
+
+img {
+    width: 70%;
+    border-radius: 20px;
+    display: block;
+    margin: 50px auto;
+}
